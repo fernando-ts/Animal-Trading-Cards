@@ -1,0 +1,41 @@
+.container {
+    margin: auto;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px #999999;
+    width: 320px;
+    background: #4F8090; 
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.title {
+    padding-left: 10px;
+    font-size: 1.22em; 
+}
+
+
+.interesting {
+    font-style: italic;
+}
+
+.shape {
+    border: 1px solid #999999;
+    margin: 10px; 
+    border-radius: 5px;
+}
+
+.info {
+    padding: 12px; 
+    text-align: justify;
+    font-size: .93em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+
+.info ul {
+    list-style-type: none;
+    padding-left: 0; 
+}
