@@ -1,2 +1,2 @@
 # Animal-Trading-Cards
-This is a small project that showcase an animal in a card like manner. 
+This project showcase a card-like design. HTML and CSS where used to create it. 
